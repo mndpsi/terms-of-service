@@ -89,13 +89,12 @@ You agree to defend, indemnify and hold us harmless from and against any and all
 
 **[IF YOUR APPLICATION WILL PERMIT USER GENERATED CONTENT, CONSULT WITH LEGAL COUNSEL REGARDING DMCA COMPLIANCE PROCEDURES AND INCLUDE THIS SECTION AND A COPYRIGHT POLICY.]**
 
-We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers. **[LINK TO FULL COPYRIGHT POLICY IF APPLICABLE.]**
-
+We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers.
 ## Governing Law
 
 **[PLEASE NOTE THAT THIS TEMPLATE INCORPORATES TERMS AND SECTIONS THAT ARE INTENDED FOR U.S-BASED SERVICES. CONSULT WITH LEGAL COUNSEL TO DETERMINE THE APPROPRIATE GOVERNING LAW FOR YOUR TERMS AND WHETHER YOU ARE SUBJECT TO ANY ADDITIONAL LEGAL REQUIREMENTS BASED ON HOW AND WHERE YOUR SERVICE OPERATES.]**
 
-The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **[U.S. STATE NAME OR OTHER JURISDICTION]**, without regard to conflicts of law principles.
+The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **Alwar, Rajasthan, 30026 INDIA**, without regard to conflicts of law principles.
 
 ## Jurisdiction
 
