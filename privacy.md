@@ -8,15 +8,11 @@ Our privacy policy applies to information we collect when you use or access our 
 
 ### Information You Provide to Us
 
-**[CUSTOMIZE AS APPROPRIATE.]**
-
 We collect information you provide directly to us. For example, we collect information when you participate in any interactive features of our services, fill out a form, request customer support, provide any contact or identifying information or otherwise communicate with us. The types of information we may collect include your name, email address, postal address, credit card information and other contact or identifying information you choose to provide.
 
 ### Information We Collect Automatically When You Use the Services
 
 When you access or use our services, we automatically collect information about you, including:
-
-**[EDIT THE LIST BELOW BASED ON YOUR APPLICATION AND COMPANY PRACTICES.]**
 
 * **Log Information**: We log information about your use of our services, including the type of browser you use, access times, pages viewed, your IP address and the page you visited before navigating to our services.
 * **Device Information**: We collect information about the computer you use to access our services, including the hardware model, and operating system and version.
@@ -30,8 +26,6 @@ For more details about how we collect information, including details about cooki
 In order to provide you with access to the Service, or to provide you with better service in general, we may combine information obtained from other sources (for example, a third-party service whose application you have authorized or used to sign in) and combine that with information we collect through our services.
 
 ## Use of Information
-
-**[EDIT THE LIST BELOW BASED ON YOUR APPLICATION AND COMPANY PRACTICES.]**
 
 We use information about you for various purposes, including to:
 
@@ -47,8 +41,6 @@ By accessing and using our services, you consent to the processing and transfer 
 
 ## Sharing of Information
 
-**[EDIT THE LIST BELOW BASED ON YOUR APPLICATION AND COMPANY PRACTICES.]**
-
 We may share personal information about you as follows:
 
 * With third party vendors and other service providers who need access to your information to carry out work on our behalf, such as **Personal**;
@@ -61,17 +53,13 @@ We may also share aggregated or anonymized information that does not directly id
 
 ## Third Party Analytics
 
-**[INCLUDE/CUSTOMIZE AS APPROPRIATE.]**
-
 We may allow third parties to provide analytics services. These third parties may use cookies, web beacons and other technologies to collect information about your use of the services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and third parties to, among other things, analyze and track data, determine the popularity of certain content and other websites and better understand your online activity. Our privacy policy does not apply to, and we are not responsible for, third party cookies, web beacons or other tracking technologies and we encourage you to check the privacy policies of these third parties to learn more about their privacy practices.
 
 ## Security
 
-We take reasonable measures to help protect personal information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction.
+We take reasonable measures to help protect personal information from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction and for offline services, we are not responsible for ny kind of security because its depends on you and your secure devices.
 
 ## Your Information Choices
-
-**[INCLUDE/CUSTOMIZE AS APPROPRIATE]**
 
 ### Location Information
 
@@ -86,8 +74,6 @@ Most web browsers are set to accept cookies by default. If you prefer, you can u
 You may opt out of receiving any promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
 ### Your California Privacy Rights
-
-**[CERTAIN TYPES OF SERVICES THAT DELIVER DIRECT MARKETING TO USERS AND INTERACT WITH CALIFORNIA RESIDENTS MAY BE SUBJECT TO TERMS IN THIS SECTION. CONSULT WITH LEGAL COUNSEL REGARDING YOUR PRIVACY OBLIGATIONS UNDER CALIFORNIA LAW.]**
 
 California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes.  If you are a California resident and would like to make such a request, please contact us at **umbrellaconsole@gmail.com**.  However, please note that under the law, Services such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure.
 
