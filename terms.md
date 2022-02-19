@@ -12,7 +12,7 @@ If you access or use the Service, it means you agree to be bound by all of the t
 
 We reserve the right to modify these Terms at any time. For instance, we may need to change these Terms if we come out with a new feature or for some other reason.
 
-Whenever we make changes to these Terms, the changes are effective **Life Time** after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check **Umbrella console** for changes to these Terms.
+Whenever we make changes to these Terms, the changes are effective **5 years** after we post such revised Terms (indicated by revising the date at the top of these Terms) or upon your acceptance if we provide a mechanism for your immediate acceptance of the revised Terms (such as a click-through confirmation or acceptance button). It is your responsibility to check **Umbrella console** for changes to these Terms.
 
 If you continue to use the Service after the revised Terms go into effect, then you have accepted the changes to these Terms.
 
@@ -32,17 +32,13 @@ If you discover or suspect any Service security breaches, please let us know as 
 
 ## Your Content & Conduct
 
-**[CUSTOMIZE THE FOLLOWING SECTION BASED ON THE TYPE OF CONTENT SUBMITTED BY USERS.]**
-
 Our Service allows you and other users to post, link and otherwise make available content. You are responsible for the content that you make available to the Service, including its legality, reliability, and appropriateness.
 
 When you post, link or otherwise make available content to the Service, you grant us the right and license to use, reproduce, modify, publicly perform, publicly display and distribute your content on or through the Service. We may format your content for display throughout the Service, but we will not edit or revise the substance of your content itself.
 
 Aside from our limited right to your content, you retain all of your rights to the content you post, link and otherwise make available on or through the Service.
 
-**[CUSTOMIZE THE FOLLOWING SECTION BASED ON YOUR DATA RETENTION PRACTICES.]**
-
-You can remove the content that you posted by deleting it. Once you delete your content, it will not appear on the Service, but copies of your deleted content may remain in our system or backups for some period of time. We will retain web server access logs for a maximum of **Life Time** and then delete them.
+You can remove the content that you posted by deleting it. Once you delete your content, it will not appear on the Service, but copies of your deleted content may remain in our system or backups for some period of time. We will retain web server access logs for a maximum of **5 years** and then delete them.
 
 You may not post, link and otherwise make available on or through the Service any of the following:
 
@@ -87,12 +83,8 @@ You agree to defend, indemnify and hold us harmless from and against any and all
 
 ## Copyright Complaints
 
-**[IF YOUR APPLICATION WILL PERMIT USER GENERATED CONTENT, CONSULT WITH LEGAL COUNSEL REGARDING DMCA COMPLIANCE PROCEDURES AND INCLUDE THIS SECTION AND A COPYRIGHT POLICY.]**
-
 We take intellectual property rights seriously. In accordance with the Digital Millennium Copyright Act ("DMCA") and other applicable law, we have adopted a policy of terminating, in appropriate circumstances and, at our sole discretion, access to the service for users who are deemed to be repeat infringers.
 ## Governing Law
-
-**[PLEASE NOTE THAT THIS TEMPLATE INCORPORATES TERMS AND SECTIONS THAT ARE INTENDED FOR U.S-BASED SERVICES. CONSULT WITH LEGAL COUNSEL TO DETERMINE THE APPROPRIATE GOVERNING LAW FOR YOUR TERMS AND WHETHER YOU ARE SUBJECT TO ANY ADDITIONAL LEGAL REQUIREMENTS BASED ON HOW AND WHERE YOUR SERVICE OPERATES.]**
 
 The validity of these Terms and the rights, obligations, and relations of the parties under these Terms will be construed and determined under and in accordance with the laws of the **Alwar, Rajasthan, 30026 INDIA**, without regard to conflicts of law principles.
 
