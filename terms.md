@@ -99,7 +99,7 @@ The validity of these Terms and the rights, obligations, and relations of the pa
 
 ## Jurisdiction
 
-You expressly agree that exclusive jurisdiction for any dispute with the Service or relating to your use of it, resides in the courts of the **[STATE NAME OR JURISDICTION]** and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the **[STATE NAME OR JURISDICTION]** located in **[CITY AND STATE IF APPLICABLE]** in connection with any such dispute including any claim involving Service. You further agree that you and Service will not commence against the other a class action, class arbitration or other representative action or proceeding.
+You expressly agree that exclusive jurisdiction for any dispute with the Service or relating to your use of it, resides in the courts of the **Alwar Rajasthan 301026** and you further agree and expressly consent to the exercise of personal jurisdiction in the courts of the **Alwar Rajasthan 301026** located in **Alwar Rajasthan 301026** in connection with any such dispute including any claim involving Service. You further agree that you and Service will not commence against the other a class action, class arbitration or other representative action or proceeding.
 
 ## Termination
 
@@ -115,6 +115,6 @@ Please let us know what you think of the Service, these Terms and, in general, *
 
 ## Questions & Contact Information
 
-Questions or comments about the Service may be directed to us at the email address **[SUPPORT EMAIL ADDRESS]**.
+Questions or comments about the Service may be directed to us at the email address **umbrellaconsole@gmail.com**.
 
 **[FINAL NOTE: CERTAIN APPLICATION STORES (E.G., APPLE APP STORE, GOOGLE PLAY, ETC.) MAY REQUIRE YOU TO INCLUDE ADDITIONAL TERMS AND CONDITIONS IN THESE TERMS OF SERVICE AS A CONDITION TO MAKING YOUR APPLICATION AVAILABLE ON SUCH PLATFORM. IF APPLICABLE, REVIEW YOUR AGREEMENT WITH ANY SUCH APPLICATION STORE TO DETERMINE IF ADDITIONAL TERMS ARE REQUIRED.]**
