@@ -1,4 +1,4 @@
-# **[DEVELOPER NAME]** PRIVACY POLICY
+# **Mandeep Singh** PRIVACY POLICY
 
 Last Revised: **19-Feb-2022**
 
